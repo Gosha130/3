@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header b {
+      color:white;
+
+}
+
+
+header  {
+      background-color: rgb(47, 73, 150);
+      border: 15px solid rgb(47, 73, 150);
+      border-radius: 10px;
+}
+
+.f {
+       background-color: rgb(47, 73, 150);
+      border: 1px solid white;
+      border-radius: 10px;
+}
+
+header img  {
+      background-color:white ;
+      border: 1px solid white;
+      border-radius: 10px;
+}
+
+h1 {
+    border: 1px solid black;
+    color: black; 
+    border-radius: 10px; 
+    text-align: center;
+}
+
+footer p {
+      border: 1px solid black;
+      text-align: center;
+      
+}
+
+
+nav {
+      margin: 20px;
+      text-align: center; 
+}
+
+nav a {
+    color:white;
+      border: 1px solid black;
+      border-radius: 10px;
+      padding: 5px;
+      text-decoration: none; 
+      background-color:black ; 
+       
+}
+
+
+.e {
+    border: 1px solid rgb(141, 212, 113);
+    border-radius: 10px;
+    padding: 5px;
+    background-color:rgb(141, 212, 113); 
+}
+
+a {
+    color:white;
+      border: 1px solid black;
+      border-radius: 10px;
+      padding: 5px;
+      text-decoration: none; 
+      background-color:black ; 
+}
+
+
+h2 {
+      text-align: center;
+             
+}
